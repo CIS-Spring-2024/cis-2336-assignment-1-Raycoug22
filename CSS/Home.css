@@ -66,7 +66,7 @@ body {
     font-weight: bold;
     width: 900px;
     text-align: center;
-    margin-top: 880pt;
+    margin-top: 1290pt;
     margin-left: 88pt;
 }
 
@@ -97,7 +97,8 @@ body {
     outline: none;
     cursor: pointer;
     border-radius: 25px;
-    margin-right: 190px;
+    margin-right: 100pt;
+    margin-left: 100pt;
     margin-top: 100pt;
     transition: .5s;
     font-style: oblique;
@@ -201,14 +202,16 @@ h4 {
 
 }
 h5{
-    color: #ffb3b3;
+    color: hotpink;
+    background-color: #cc0000;
     font-size: 20pt;
     margin-top: 120pt;
 }
 p{
-    color: lightgoldenrodyellow;
+    color: rgb(173, 230, 228);
+    background-color: rgba(0, 0, 0, 0.4);
     font-style: oblique;
-    font-size: 14pt;
+    font-size: 18pt;
     display: block;
     width: 100%;
     line-height: 30pt;
@@ -235,3 +238,4 @@ footer p2 {
 footer p3{
     font-size: 11px;
 }
+
