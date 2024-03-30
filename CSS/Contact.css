@@ -2,12 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
   }
   
   body,
   input,
   textarea {
     font-family: "Poppins", sans-serif;
+    
   }
   
   .container {
@@ -447,3 +449,15 @@ footer p3{
     font-size: 11px;
 }
 
+h1{
+    text-align: center;
+    color: blue;
+    margin-bottom: 60pt;
+}
+body,div.container{
+    background-color: lightblue;
+}
+.para{
+    text-align: center;
+    
+}

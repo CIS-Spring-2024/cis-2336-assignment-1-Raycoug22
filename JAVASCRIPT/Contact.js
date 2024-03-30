@@ -40,7 +40,7 @@ function validateForm() {
     if (validateForm()) {
         alert("Thank you for reaching out to us. We will get back to you as soon as possible.");
     } else{
-        alert("Form cannot be left blank");
+        alert("All fields must be filled out");
     }
   }
 
